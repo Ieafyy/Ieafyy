@@ -10,7 +10,13 @@
 - Fone: (31) 97170-9990
 - <a href="https://www.linkedin.com/in/raphael-ramalho-549224216/">linkedin </a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieafyy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!---
 Ieafyy/Ieafyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
