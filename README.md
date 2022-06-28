@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieafyy)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Snake animation](https://github.com/rafaballerini/ieafyy/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Ieafyy/Ieafyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
